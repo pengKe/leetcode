@@ -1,8 +1,6 @@
 # leetcode
 https://leetcode-cn.com
 # Leetcode solutions in Java
-
-My accepted leetcode solutions to some of the common interview problems.
 [Leetcode 分类顺序表](https://cspiration.com/leetcodeClassification) 
 #### [Array](problems/src/array)
 
