@@ -6,7 +6,7 @@ public class RemoveDuplicatesfromSortedArray {
     复杂度分析
     时间复杂度：O(n)，空间复杂度：O(1)
      */
-    public int removeDuplicates(int[] nums) {
+    public int RemoveDuplicatesfromSortedArray(int[] nums) {
         if (nums == null || nums.length == 0) return 0;
         int res = 1;
         for (int i = 1; i < nums.length; i++) {
