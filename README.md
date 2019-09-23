@@ -9,7 +9,7 @@ https://leetcode-cn.com
 - [26	Remove Duplicates from Sorted Array](problems/src/array/RemoveDuplicatesfromSortedArray.java) (Easy)
 - [80	Remove Duplicates from Sorted Array II](problems/src/array/RemoveDuplicatesfromSortedArray.java) (Easy)
 - [277	Find the Celebrity](problems/src/array/FindtheCelebrity.java) (Medium)
-- [189	Rotate Array](problems/src/array/RotateArray.java)
+- [189	Rotate Array](problems/src/array/RotateArray.java) (Easy)
 - [41	First Missing Positive](problems/src/array/FindtheCelebrity.java)
 - [299	Bulls and Cows](problems/src/array/FindtheCelebrity.java)	
 - [134	Gas Station](problems/src/array/FindtheCelebrity.java)
