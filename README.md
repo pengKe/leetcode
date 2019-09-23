@@ -8,9 +8,9 @@ My accepted leetcode solutions to some of the common interview problems.
 
 - 基础
 - [27	Remove Element](problems/src/array/RemoveElement.java) (Easy)
+- [26	RemoveDuplicatesfromSortedArray](problems/src/array/RemoveDuplicatesfromSortedArray.java) (Easy)
 
-#### [Backtracking](problems/src/backtracking)
 
-- [Combinations](problems/src/backtracking/Combinations.java) (Medium)
+
 
 
