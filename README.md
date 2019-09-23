@@ -11,7 +11,7 @@ https://leetcode-cn.com
 - [277	Find the Celebrity](problems/src/array/FindtheCelebrity.java) (Medium)
 - [189	Rotate Array](problems/src/array/RotateArray.java) (Easy)
 - [41	First Missing Positive](problems/src/array/FirstMissingPositive.java) (Hard)
-- [299	Bulls and Cows](problems/src/array/BullsandCows.java)	
+- [299	Bulls and Cows](problems/src/array/BullsandCows.java)	(Medium)
 - [134	Gas Station](problems/src/array/FindtheCelebrity.java)
 - [118	Pascal's Triangle](problems/src/array/FindtheCelebrity.java)
 - [119	Pascal's Triangle II](problems/src/array/FindtheCelebrity.java)
