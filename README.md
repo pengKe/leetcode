@@ -6,6 +6,8 @@ My accepted leetcode solutions to some of the common interview problems.
 
 #### [Array](problems/src/array)
 
+- 基础
+- [27	Remove Element](problems/src/array/RemoveElement.java) (Easy)
 - [Pascals Traiangle II](problems/src/array/PascalsTriangle.java) (Easy)
 - [Product Of Array Except Self](problems/src/array/ProductOfArrayExceptSelf.java) (Medium)
 - [Rotate Matrix](problems/src/array/RotateMatrix.java) (Medium)
