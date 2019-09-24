@@ -14,7 +14,7 @@ https://leetcode-cn.com
 - [299	Bulls and Cows](problems/src/array/BullsandCows.java)	(Medium)
 - [134	Gas Station](problems/src/array/GasStation.java) (Medium)
 - [118	Pascal's Triangle](problems/src/array/PascalTriangle.java) (Easy)
-- [119	Pascal's Triangle II](problems/src/array/FindtheCelebrity.java)
+- [119	Pascal's Triangle II](problems/src/array/PascalTriangleII.java) (Easy)
 - [169	Majority Element](problems/src/array/FindtheCelebrity.java)
 - [229	Majority Element](problems/src/array/FindtheCelebrity.java)
 - [274	H-Index](problems/src/array/FindtheCelebrity.java)
