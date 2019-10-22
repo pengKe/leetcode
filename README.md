@@ -62,7 +62,7 @@ https://leetcode-cn.com
 - [228	Summary Ranges]
 - [163	Missing Ranges]
 - Counter
-- [88	Merge Sorted Array]
+- [88	Merge Sorted Array](problems/src/array/MergeSortedArray.java) (Easy)
 - [75	Sort Colors]
 - [283	Move Zeroes]
 - [376	Wiggle Subsequence]
